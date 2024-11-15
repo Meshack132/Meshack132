@@ -4,7 +4,7 @@
 
 👀 I’m interested in DevOps and Data Analysis
 
-🌱 I’m currently learning Node.js, Python, Java, and SQL
+🌱 I’m currently learning Node.js, Asp.Net NetCore, Java, and SQL
 
 💞️ I’m looking to collaborate on Kubernetes and Docker projects
 
