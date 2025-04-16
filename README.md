@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @Meshack132
 
-👀 I’m interested in DevOps and Data Analysis
+👀 I’m interested in DevOps and Software Engineer
 
 🌱 I’m currently learning Node.js, Asp.Net NetCore, Java, and SQL
 
