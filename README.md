@@ -8,11 +8,15 @@
 
 💞️ I’m looking to collaborate on Kubernetes and Docker projects
 
-### 📜 Certifications  
-- [Microsoft Certified: Azure AZ-900](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
-- [CompTIA Cloud+](https://www.comptia.org/certifications/cloud)  
-- [IBM Cloud Advocate](https://www.credly.com/org/ibm/badge/ibm-cloud-advocate-v2)  
-- [IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science)  
+### 📜 Certifications
+
+#### **Cloud & DevOps**
+[![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft_Azure_AZ--900-0089D6?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
+[![CompTIA Cloud+](https://img.shields.io/badge/CompTIA_Cloud+-E45925?logo=comptia&logoColor=white)](https://www.credly.com/badges/cb79250c-825b-4876-96e5-5b4e4805ddd8/public_url)  
+
+#### **IBM Certifications**
+[![IBM Cloud Advocate v2](https://img.shields.io/badge/IBM_Cloud_Advocate-052FAD?logo=ibm&logoColor=white)](https://www.credly.com/badges/c5beeea9-a24b-41d2-a0f4-abbd07bc501e/public_url)  
+[![IBM Data Science Professional](https://img.shields.io/badge/IBM_Data_Science-FF6C37?logo=ibm&logoColor=white)](https://www.credly.com/badges/fe046217-c53e-442a-97d9-00959731b2c1/public_url)   
 
 ### 🛠️ Skills
 
