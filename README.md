@@ -8,6 +8,12 @@
 
 💞️ I’m looking to collaborate on Kubernetes and Docker projects
 
+### Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Python](https://img.shields.io/badge/-Python-blue)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Meshack132&color=blue)
 
 ## 📊 GitHub Stats
