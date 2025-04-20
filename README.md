@@ -8,6 +8,12 @@
 
 💞️ I’m looking to collaborate on Kubernetes and Docker projects
 
+### 📜 Certifications  
+- [Microsoft Certified: Azure AZ-900](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
+- [CompTIA Cloud+](https://www.comptia.org/certifications/cloud)  
+- [IBM Cloud Advocate](https://www.credly.com/org/ibm/badge/ibm-cloud-advocate-v2)  
+- [IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science)  
+
 ### 🛠️ Skills
 
 #### **Programming Languages**
