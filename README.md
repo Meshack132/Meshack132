@@ -11,7 +11,7 @@
 ### 📜 Certifications
 
 #### **Cloud & DevOps**
-[![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft_Azure_AZ--900-0089D6?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
+[![Microsoft Azure AZ-900]([https://img.shields.io/badge/Microsoft_Azure_AZ--900-0089D6?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900/](https://learn.microsoft.com/api/credentials/share/en-us/MeshackMthimkhulu-3426/8B7F879AE259830C?sharingId=300BF0D1E9A0ABB6))  
 [![CompTIA Cloud+](https://img.shields.io/badge/CompTIA_Cloud+-E45925?logo=comptia&logoColor=white)](https://www.credly.com/badges/cb79250c-825b-4876-96e5-5b4e4805ddd8/public_url)  
 
 #### **IBM Certifications**
